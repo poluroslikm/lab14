@@ -1,0 +1,9 @@
+﻿  FileName.c
+C:\Users\Poluroslik M\source\repos\Project6\FileName.c(56,37): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Project6\FileName.c(56,17): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Poluroslik M\source\repos\Project6\FileName.c(70,1): warning C4716: lab8task3: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Project6\FileName.c(16,1): warning C4716: lab8task0: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Project6\FileName.c(59,1): warning C4716: lab8task2: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Project6\FileName.c(47,1): warning C4716: lab8task1: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Project6\FileName.c(33,1): warning C4716: lab8task01: должна возвращать значение
+  Project6.vcxproj -> C:\Users\Poluroslik M\source\repos\Project6\x64\Debug\Project6.exe

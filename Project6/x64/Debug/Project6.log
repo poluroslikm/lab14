@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\student\Desktop\lab11-main\lab8-main\Project6\FileName.c(55,39): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\student\Desktop\lab11-main\lab8-main\Project6\FileName.c(24): warning C4716: put_elements: должна возвращать значение
+C:\Users\student\Desktop\lab11-main\lab8-main\Project6\FileName.c(73): warning C4716: lab14task2: должна возвращать значение
+C:\Users\student\Desktop\lab11-main\lab8-main\Project6\FileName.c(83): warning C4716: lab14task1: должна возвращать значение
+  Project6.vcxproj -> C:\Users\student\Desktop\lab11-main\lab8-main\Project6\x64\Debug\Project6.exe
